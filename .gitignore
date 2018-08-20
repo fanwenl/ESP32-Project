@@ -59,3 +59,4 @@ coverage_report/
 
 test_multi_heap_host
 */build/*
+.vscode/*
