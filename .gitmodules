@@ -1,0 +1,3 @@
+[submodule "mqtt_client/espmqtt"]
+	path = mqtt_client/espmqtt
+	url = https://github.com/tuanpmt/espmqtt.git
