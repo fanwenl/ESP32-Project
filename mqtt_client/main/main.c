@@ -69,6 +69,8 @@ static esp_err_t event_handler(void *ctx, system_event_t *event)
         break;
     }
     return ESP_OK;
+
+    
 }
 
 void wifi_init_softap()
